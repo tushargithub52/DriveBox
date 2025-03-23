@@ -20,15 +20,15 @@
 ## 🖼️ Screenshots
 
 ### User Registration
-![Register Page](screenshots/user-registration.png)
+![Register Page](Screenshots/user-registration.png)
 ### User Login
-![Login Page](screenshots/user-login.png)
+![Login Page](Screenshots/user-login.png)
 ### Home Page
-![Home Page](screenshots/home-page.png)
+![Home Page](Screenshots/home-page.png)
 ### File Upload
-![Upload Page](screenshots/file-upload.png)
+![Upload Page](Screenshots/file-upload.png)
 ### File Download
-![Download Page](screenshots/download-file.png)
+![Download Page](Screenshots/download-file.png)
 
 
 
