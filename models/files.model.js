@@ -3,7 +3,7 @@ const mongoose = require('mongoose')
 const fileSchema = mongoose.Schema({
     path: {
         type: String,
-        required: [true, 'File path is required']
+        required: [true, 'File path is required'],
     },
     originalname: {
         type: String,
